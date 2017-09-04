@@ -1,5 +1,5 @@
 {
-    "name": "mnvx/pthreads-example",
+    "name": "skecskes/pthreads-sandpit",
     "description": "Example of using pthreads",
     "require": {
         "krakjoe/pthreads-polyfill": "^1.1"
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "mnv",
-            "email": "mnvx@yandex.ru"
+            "name": "Stefan Kecskes",
+            "email": "mr.kecskes0@skey.uk"
         }
     ]
 }
