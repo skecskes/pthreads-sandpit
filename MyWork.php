@@ -23,7 +23,7 @@ class MyWork extends Threaded
             }
 
             // Some resource intensive operation
-            $count = 100;
+            $count = 5000;
             for ($j = 1; $j <= $count; $j++) {
                 sqrt($j+$value) + sin($value/$j) + cos($value);
             }

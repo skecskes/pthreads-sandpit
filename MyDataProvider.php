@@ -8,7 +8,7 @@ class MyDataProvider extends Threaded
     /**
      * @var int How many elements contains in our imagined database
      */
-    private $total = 2000000;
+    private $total = 20000;
     
     /**
      * @var int How many items have been processed

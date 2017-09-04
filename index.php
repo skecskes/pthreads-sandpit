@@ -17,7 +17,7 @@ if (extension_loaded("pthreads")) {
     echo "Using polyfill" . PHP_EOL;
 }
 
-$threads = 8;
+$threads = 4;
 
 // Create data provider. This service for example may read some data 
 // from file or from database.
